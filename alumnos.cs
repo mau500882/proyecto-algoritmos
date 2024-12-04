@@ -27,5 +27,6 @@ namespace proyecto_final
 			
 		}
 		public void inscripcion
+		public void dar de baja()
 	}
 }
